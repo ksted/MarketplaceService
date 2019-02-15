@@ -16,6 +16,10 @@ In the **Ticket** tab, enter the IDs of the role, type and status you created ea
 
 **Save** the settings.
 
+## Automation
+
+After configuring the plugin, you can automate your processes. [Automatically send emails](https://knowledge.plentymarkets.com/en/crm/using-the-ticket-system#2900) when a new ticket is created to inform your customers about the next steps.
+
 ## Further reading
 
 For more information on how to offer your own services, see:

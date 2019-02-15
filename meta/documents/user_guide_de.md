@@ -14,7 +14,11 @@ Nach der Installation muss das Plugin noch eingerichtet werden. Klicken Sie dazu
 
 Öffnen Sie die Registerkarte **Ticket**. Geben Sie dort die IDs der zuvor erstellten Rolle, des Typs und des Statuses ein. Geben Sie außerdem die IDs der Benutzer ein, die Zugriff auf die Tickets haben sollen, die angelegt werden, wenn ein Kunde Ihre Dienstleistung erwirbt. Die ID ist im Menü **System » Einstellungen » Benutzer » Konten** hinterlegt, wenn Sie auf den Namen des Benutzers klicken.
  
-**Save** the settings.
+**Speichern** Sie die Einstellungen.
+
+## Automatisierung
+
+Nachdem Sie das Plugin eingerichtet haben, können Sie Ihre Arbeitsabläufe noch automatisieren. Nutzen Sie die Möglichkeit, [automatisch E-Mails zu versenden](https://knowledge.plentymarkets.com/crm/ticketsystem-nutzen#2900), um auf eingehende Tickets direkt zu reagieren und Ihre Kunden über die nächsten Schritte zu informieren.
 
 ## Verwandte Themen
 
