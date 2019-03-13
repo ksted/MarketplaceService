@@ -12,7 +12,7 @@ Nachdem Sie das Plugin erworben haben, muss es installiert und aktiviert werden.
 
 Nach der Installation muss das Plugin noch eingerichtet werden. Klicken Sie dazu auf den Namen des Plugin in der **Plugin-Übersicht**. Ändern Sie nicht die angegebene Route in der Registerkarte **Webhook-URL**. Wird diese hier geändert, muss auch der entsprechende Teil der **webhookURL** in der plugin.json-Datei des Service-Plugins angepasst werden.
 
-Öffnen Sie die Registerkarte **Ticket**. Geben Sie dort die IDs der zuvor erstellten Rolle, des Typs und des Statuses ein. Geben Sie außerdem die IDs der Benutzer ein, die Zugriff auf die Tickets haben sollen, die angelegt werden, wenn ein Kunde Ihre Dienstleistung erwirbt. Die ID ist im Menü **System » Einstellungen » Benutzer » Konten** hinterlegt, wenn Sie auf den Namen des Benutzers klicken.
+Öffnen Sie die Registerkarte **Ticket**. Geben Sie dort die IDs der zuvor erstellten Rolle, des Typs und des Statuses ein. Geben Sie außerdem die **IDs** der Benutzer ein, die Zugriff auf die Tickets haben sollen, die angelegt werden, wenn ein Kunde Ihre Dienstleistung erwirbt. Die ID ist im Menü **System » Einstellungen » Benutzer » Konten** hinterlegt, wenn Sie auf den Namen des Benutzers klicken.
  
 **Speichern** Sie die Einstellungen.
 
