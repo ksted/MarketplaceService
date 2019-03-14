@@ -1,6 +1,6 @@
 # Release Notes for Service Helper
 
-## v1.0.2 (2019-03-13)
+## v1.0.3 (2019-03-14)
 - Anpassung der Eingabefeldernamen in der Konfiguration.
 
 ## v1.0.1 (2019-02-15)

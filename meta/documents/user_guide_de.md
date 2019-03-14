@@ -4,9 +4,9 @@ Der Dienstleistungsassistent erleichtert das Anbieten von Dienstleistungen auf p
 
 ## Erste Schritte und Voraussetzungen
 
-Dieses Plugin kann nur verwendet werden, wenn Sie eine Dienstleistung auf plentyMarketplace anbieten. Weitere Informationen zum Anbieten von Dienstleistungen finden Sie unter **Verwandte Themen**. Außerdem muss im Ticketsystem mindestens eine Rolle, ein Typ und ein Status definiert sein. Weitere Informationen dazu finden Sie [https://knowledge.plentymarkets.com/crm/ticketsystem-nutzen#700](hier).
+Dieses Plugin kann nur verwendet werden, wenn Sie eine Dienstleistung auf plentyMarketplace anbieten. Weitere Informationen zum Anbieten von Dienstleistungen finden Sie unter **Verwandte Themen**. Außerdem muss im Ticketsystem mindestens eine Rolle, ein Typ und ein Status definiert sein. Weitere Informationen dazu finden Sie [hier](https://knowledge.plentymarkets.com/crm/ticketsystem-nutzen#700).
 
-Nachdem Sie das Plugin erworben haben, muss es installiert und aktiviert werden. Weitere Informationen zum Installieren und Aktivieren von Plugins finden Sie [https://knowledge.plentymarkets.com/plugins/plugin-sets#plugins-hinzufuegen](hier)
+Nachdem Sie das Plugin erworben haben, muss es installiert und aktiviert werden. Weitere Informationen zum Installieren und Aktivieren von Plugins finden Sie [hier](https://knowledge.plentymarkets.com/plugins/plugin-sets#plugins-hinzufuegen).
  
 ## Plugin-Konfiguration
 
@@ -29,4 +29,4 @@ Weitere Informationen dazu, wie Sie Dienstleistungen auf plentyMarketplace anbie
  
 ## Lizenz
  
-Das gesamte Projekt unterliegt der GNU AFFERO GENERAL PUBLIC LICENSE – weitere Informationen finden Sie in der [LICENSE.md](/LICENSE.md)-Datei.
+Das gesamte Projekt unterliegt der GNU AFFERO GENERAL PUBLIC LICENSE – weitere Informationen finden Sie in der [LICENSE.md](https://github.com/ksted/MarketplaceService/blob/master/LICENSE.md)-Datei.

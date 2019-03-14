@@ -29,4 +29,4 @@ For more information on how to offer your own services, see:
  
 ## License
  
-This project is licensed under the GNU AFFERO GENERAL PUBLIC LICENSE - see the [LICENSE.md](/LICENSE.md) file for details.
+This project is licensed under the GNU AFFERO GENERAL PUBLIC LICENSE - see the [LICENSE.md](https://github.com/ksted/MarketplaceService/blob/master/LICENSE.md) file for details.
